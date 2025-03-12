@@ -1,0 +1,7 @@
+C:\Users\guiro\source\repos\MyStore\obj\Debug\net8.0\MyStore.csproj.AssemblyReference.cache
+C:\Users\guiro\source\repos\MyStore\obj\Debug\net8.0\MyStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiro\source\repos\MyStore\obj\Debug\net8.0\MyStore.AssemblyInfoInputs.cache
+C:\Users\guiro\source\repos\MyStore\obj\Debug\net8.0\MyStore.AssemblyInfo.cs
+C:\Users\guiro\source\repos\MyStore\obj\Debug\net8.0\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\guiro\source\repos\MyStore\obj\Debug\net8.0\MyStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guiro\source\repos\MyStore\obj\Debug\net8.0\MyStore.MvcApplicationPartsAssemblyInfo.cache
